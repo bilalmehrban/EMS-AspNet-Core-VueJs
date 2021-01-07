@@ -1,4 +1,4 @@
-# EMS-AspNet-Core-VueJs
+# Employee Management System - EMS
 Employee Management System, A Complete HRM suite for day to day tasks of a small business. EMS is built using Clean Architecture [Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) with ASP.NET Core and Vue.js
 
 ## Give a Star! :star:
