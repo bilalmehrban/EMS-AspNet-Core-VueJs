@@ -29,3 +29,16 @@ You should **download the repository**, unblock the zip file, and extract it to 
 You should **fork this repository** only if you plan on submitting a pull request. Or if you'd like to keep a copy of a snapshot of the repository in your own GitHub account.
 
 You should **clone this repository** if you're one of the contributors and you have commit access to it. Otherwise you probably want one of the other options.
+
+## Contributing
+
+Fork the repo do the changes you want, send a PR than be patient I will review the PR once I get the time todoso. 
+
+## Authors
+
+* **Bilal Mehrban** - *Contributed With Love* - [BilalMehrban](https://github.com/bilalmehrban)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
